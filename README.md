@@ -1,4 +1,4 @@
-# Perez's Family secret recipes
+# Chay's Family secret recipes
 
 Set of recipes as given by my grandma.
 
