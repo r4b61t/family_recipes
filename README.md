@@ -1,8 +1,8 @@
-# Perez's Family secret recipe
+# Perez's Family secret recipes
 
-Set of recipe as given by my grandma.
+Set of recipes as given by my grandma.
 
-* pizza (TODO)
-* sauce (TODO)
-* spread (TODO)
+* pizzas (TODO)
+* sauces (TODO)
+* spreads (TODO)
 
